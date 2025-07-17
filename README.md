@@ -32,6 +32,10 @@ This repository is your go-to hub for all assignments, projects, and course mate
 
 * [📄 Final Project](FinalProject/FinalProject.pdf)
 
+#### Student's final project
+
+* [Nima Memari](https://github.com/Nim4404/Final_Project_2048)
+
 ---
 
 ## 👨‍🏫 Instructors
